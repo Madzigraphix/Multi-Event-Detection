@@ -15,4 +15,9 @@ Engineering and Development
 The project integrates embedded programming, sensor interfacing, I²C and UART communication, power management, wireless networking, GPS data processing, alert control, and wearable mechanical enclosure design. It demonstrates how different hardware and software subsystems can be combined to create an autonomous safety-oriented device.
 Intended Application and Limitations
 The system is intended as an experimental assistive technology prototype that explores automated fall recognition and emergency notification. It is not a certified medical device or a replacement for emergency response systems. Detection performance, false alarms, GPS accuracy, network availability, battery endurance, and wearable comfort require further testing and validation before practical deployment.
+
+# Collaborators
+1. Masika Stephanie - Overall Supervisor
+2. Boniface Munywoki - Project Supervisor
+3. Madzikwato Jilo - Student
 Future development may include improved movement classification, expanded activity testing, optimization of power consumption, more robust communication handling, improved enclosure design, and additional reliability testing.
